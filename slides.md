@@ -29,6 +29,23 @@ By ZainCheung
 作品集
 -->
 
+
+---
+layout: default
+hideInToc: true
+---
+
+# 操作指南
+
+## Keyboard Shortcuts
+
+|     |     |
+| --- |-----|
+| <kbd>right</kbd> / <kbd>space</kbd>| 下一页 |
+| <kbd>left</kbd>  / <kbd>shift</kbd><kbd>space</kbd> | 上一页 |
+| <kbd>up</kbd> | 上一页 |
+| <kbd>down</kbd> | 下一页 |
+
 ---
 layout: default
 hideInToc: true
@@ -138,18 +155,8 @@ hide: false
 -->
 
 ---
-transition: slide-up
-level: 2
+layout: center
+hideInToc: true
 ---
 
-# Navigation
-
-## Keyboard Shortcuts
-
-|     |     |
-| --- | --- |
-| <kbd>right</kbd> / <kbd>space</kbd>| next animation or slide |
-| <kbd>left</kbd>  / <kbd>shift</kbd><kbd>space</kbd> | previous animation or slide |
-| <kbd>up</kbd> | previous slide |
-| <kbd>down</kbd> | next slide |
-
+# 感谢观看！
